@@ -18,16 +18,16 @@ Com isso, ela vai nos apresentar o que ela gostaria:
 
 ### Perguntas e desejos da Helô
 
-1.) Identificar o faturamento, ela tem uma noção de que ela faturou bastante, mas não sabe o quanto no total.
+1.) Identificar o faturamento, ela tem uma noção de que faturou bastante, mas não sabe o quanto no total.
 - Solução: Disponibilizar a visualização do faturamento total e o faturamento por mês.
 
-2.) Filtros por marca, ou seja, construação de algo que ela consiga ver só o quanto o Doguito vendeu ou só o quanto o Gatito vendeu.
+2.) Filtros por marca, ou seja, construção de algo que ela consiga ver só o quanto o Doguito vendeu ou só o quanto o Gatito vendeu.
 - Solução: Criação de um filtro por marca de produtos(Doguito e Gatito).
 
 3.) Visualizar os produtos disponíveis na loja, que através desse dashboard, ver quais produtos ela tem e até mesmo visualizar o faturamento através de cada produto ou de todos. 
 - Solução: Visão geral do quanto cada produto é vendido e o quanto ela fatura com cada produto.
 
-4.) Qual é o gênero que mais compra determinado produto, para fazer propagandas mais determinadas para cada estilo de pessoa e até para cada gênero também. 
+4.) Qual é o gênero que mais compra determinado produto, para fazer propagandas mais determinadas, para cada estilo de pessoa e até para cada gênero também. 
 - Solução: Colocar essa informação no nosso relatório.
 
 5.) Média de pets que cada cliente, que passa na loja tem, até mesmo para utilizar algumas técnicas de venda. Se os clientes, tiverem uma média de dois pets, ela vai escolher alguns produtos mais específicos para colocar na loja.
