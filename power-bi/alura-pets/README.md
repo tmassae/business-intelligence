@@ -1,3 +1,5 @@
+![Badge CONCLUIDO](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+
 # Alura Pets
 
 ## Objetivo do projeto
