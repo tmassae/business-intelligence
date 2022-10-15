@@ -1,15 +1,31 @@
 
-# Curso Power BI Desktop: Contruindo meu primeiro Dashaboard - Alura
+<h3> Curso Power BI Desktop: Contruindo meu primeiro Dashboard - Alura</h3>
 
 - Conhecendo a ferramenta
 - Conectando e tratando os dados
 - Relações e medidas
 - Criando o dashboard
 - Power BI Service
-- Conclusão: entrega do Dashboard Alura Pets
- 
-<b>Carga horária 8 horas</b>
+
+Carga horária 8 horas
+<p>Conclusão: entrega do Dashboard Alura Pets</p>
+
+<img src = "https://github.com/tmassae/business-intelligence/blob/main/power-bi/certificado1.png?raw=true" width="500" align=center>
 
 
-<img src = "https://github.com/tmassae/business-intelligence/blob/001701987a2cce11e25f954298a9602603ea13b4/power-bi/Certificado_Power_BI_Desktop_Construindo_meu_primeiro_dashboard.png?raw=true"
-width="500" align=center>
+---
+
+
+<h3> Dashboard com Power BI: Visualizando dados - Alura</h3>
+
+- Resumindo dados
+- Metas e segmentação de dados
+- Tabelas
+- Séries temporais
+- Categorias e localização
+- Construindo o Dashboard
+
+Carga horária 8 horas
+<p>Conclusão: entrega do Dashboard Clube do Livro</p>
+
+<img src = "https://github.com/tmassae/business-intelligence/blob/main/power-bi/certificado2.png?raw=true" width="500" align=center>
