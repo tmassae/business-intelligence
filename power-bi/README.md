@@ -1,5 +1,7 @@
+<h2> Cursos </h2>
 
-<h3> Curso Power BI Desktop: Contruindo meu primeiro Dashboard - Alura</h3>
+
+<h3> Power BI Desktop: Contruindo meu primeiro Dashboard - Alura</h3>
 
 - Conhecendo a ferramenta
 - Conectando e tratando os dados
@@ -10,7 +12,7 @@
 Carga horária 8 horas
 <p>Conclusão: entrega do Dashboard Alura Pets</p>
 
-<img src = "https://github.com/tmassae/business-intelligence/blob/main/power-bi/certificado1.png?raw=true" width="500" align=center>
+<img src = "https://github.com/tmassae/business-intelligence/blob/main/power-bi/certificado1.png?raw=true" width="200" align=center>
 
 
 ---
@@ -28,4 +30,4 @@ Carga horária 8 horas
 Carga horária 8 horas
 <p>Conclusão: entrega do Dashboard Clube do Livro</p>
 
-<img src = "https://github.com/tmassae/business-intelligence/blob/main/power-bi/certificado2.png?raw=true" width="500" align=center>
+<img src = "https://github.com/tmassae/business-intelligence/blob/main/power-bi/certificado2.png?raw=true" width="200" align=center>
